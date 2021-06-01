@@ -6,3 +6,5 @@ Name of the course: Universidad Java 2021 - De Cero a Experto!
 Link to the course (it's in Spanish): https://www.udemy.com/share/101WlwB0sYeFdWR3o=/
 
 I translated all the code comments, names used (for classes, variables, etc), and more from Spanish to English.
+
+Even though I implemented all coding exercises in NetBeans, some of them (especially the first ones) were simple enough to only include the source code and nothing else.
