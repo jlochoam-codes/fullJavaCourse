@@ -2,6 +2,9 @@
 Section001/
 Section002/
 
+# Ignored PDF files to save storage in the repo
+*.pdf
+
 # Compiled class file
 *.class
 
