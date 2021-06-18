@@ -1,6 +1,9 @@
 # Ignored sections because only their source code is necessary for simplicity
 Section001/
 Section002/
+Section003/
+Section004/
+Section005/
 
 # Ignored PDF files to save storage in the repo
 *.pdf
