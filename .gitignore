@@ -40,3 +40,4 @@ dist/
 nbdist/
 nbactions.xml
 nb-configuration.xml
+/Section044/IntroToJDBC/target/
